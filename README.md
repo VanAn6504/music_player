@@ -50,7 +50,7 @@ Màn hình Playlist
 
 Màn hình Now Playing 
 
-![Now Playing](./screenshots/now_playing.png)
+![Now Playing](./screenshots/nowplaying.png)
 
 Màn hình Setting
 
